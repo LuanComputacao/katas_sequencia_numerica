@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "python.linting.ignorePatterns": [
+        ".vscode/*.py",
+        "**/site-packages/**/*.py",
+        "**/__pycache__/**"
+    ],
+    "editor.rulers": [80, 120]
+}
